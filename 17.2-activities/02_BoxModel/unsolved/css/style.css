@@ -1,6 +1,5 @@
-.body {
+body {
     font-family: 'Open Sans', sans-serif;
-
 }
 /* Header Styles */
 .header {
@@ -13,6 +12,8 @@
 }
 .pageTopic {
     text-align: center;
+    font-size: 14px;
+    font-weight: 900;
 }
 /* Primary Color */
 .colorContainer {
