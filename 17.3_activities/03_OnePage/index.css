@@ -1,0 +1,16 @@
+nav {
+    background-color: lightgrey;
+    border-bottom: 1 px solid black
+}
+nav div {
+    display: inline-block;
+    padding: 25px 20px;
+    width: 75px;
+    background-color: #555;
+    color: white;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+.left {
+    width: 200px;
+}
